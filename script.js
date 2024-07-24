@@ -1,7 +1,6 @@
-//your JS code here. If required.
 document.addEventListener('DOMContentLoaded', () => {
-    const player1Input = document.getElementById('player-1');
-    const player2Input = document.getElementById('player-2');
+    const player1Input = document.getElementById('player1');
+    const player2Input = document.getElementById('player2');
     const submitButton = document.getElementById('submit');
     const gameBoard = document.getElementById('game-board');
     const playerSetup = document.getElementById('player-setup');
